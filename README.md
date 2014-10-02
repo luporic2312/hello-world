@@ -1,4 +1,7 @@
 hello-world
 ===========
 
-This is my first github repo
+Helllooooooo laalaaalaaaaa!
+This is my first github repo. I hope to be making many more.
+
+Nanoonanoo
